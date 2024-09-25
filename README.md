@@ -1,3 +1,3 @@
-#OpenClassRoomsProject - Ce projet est fictif
+# OpenClassRoomsProject - Ce projet est fictif
 
-#Cour: Gérez du code avec Git et GitHub
+# Cour: Gérez du code avec Git et GitHub
