@@ -1,1 +1,2 @@
-Ce projet est fictif
+OpenClassRoomsProject - Ce projet est fictif
+
