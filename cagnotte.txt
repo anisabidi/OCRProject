@@ -1,2 +1,4 @@
 Update du fichier cagnotte.txt:
-- Ajout de couleur bleu au titre h5
+Ajout de couleur bleu au titre h5
+cette cagnotte est fictive, elle ne sera disponible que pendant le développement de ce projet
+Ce fichier viens d'être modifié le 20 novembre à 12h23
