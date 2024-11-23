@@ -1,2 +1,2 @@
 creation de la nouvelle cagnotte supplémentaire
-Ce fichier est modifié dans le but de suuprimer la branche deuxiemeCagnotte
+Ce fichier est modifié dans le but de suuprimer la branche deuxiemeCagnotte et puis troisiemeCagnotte
