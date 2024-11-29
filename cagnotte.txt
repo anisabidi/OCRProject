@@ -1,0 +1,1 @@
+Ce fichier est modifié pour vérifier un merge que je vais effectuer sur la branche s'il s'execute ou pas.
